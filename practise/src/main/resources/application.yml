@@ -1,0 +1,3 @@
+messages:
+  hello: Hello dropwizard world!
+  timeLogMsg: The current time is 
